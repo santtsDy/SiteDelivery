@@ -1,0 +1,445 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f5c489; 
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background-color: #f7eedc; 
+    padding: 10px 20px;
+    width: 100%;
+    
+}
+
+.logo img {
+    height: 80px;
+    width: auto;
+}
+
+.login{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-right: 60px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #4b2900;
+    padding-left: 900px;
+}
+
+.cardapio{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-right: 60px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #4b2900;
+    
+}
+
+.quem{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-right: 60px;
+    font-size: 25px;
+    text-decoration: none;
+    color: #4b2900;
+    
+}
+
+.banner01{
+    width: 750px;
+    height: 240px;
+    border-radius: 12px;
+    background-color: #a77a48;
+    margin-top: 40px;
+    background-image: url(image\ 1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.banner02{
+    display: flex;
+    width: 750px;
+    height: 250px;
+    border-radius: 12px;
+    background-color: #a77a48;
+    margin-top: 40px;
+    margin-left: 1170px;
+    background-image: url(image\ 2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+        
+}
+
+.banner03{
+    width: 750px;
+    height: 240px;
+    border-radius: 12px;
+    background-color: #a77a48;
+    margin-top: 40px;
+    background-image: url(image\ 4\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.textinho01 {
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 30px;
+    font-size: 40px;
+    padding-top: 25px;
+    
+}
+
+.textinho02 {
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 30px;
+    font-size: 20px;
+    padding-top: 25px;
+    color: rgba(75, 41, 0, 0.83); 
+    
+}
+
+.textinho01 .parte1 {
+    color: rgba(75, 41, 0, 0.83); 
+}
+
+.textinho01 .parte2 {
+    font-size: 36px; 
+    color: wheat;
+    
+}
+
+.img01{
+    padding-left: 350px;
+    
+    
+}
+
+
+/*------------------------------------------*/
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 10vh;
+    justify-content: center;
+   
+}
+
+.banner4 {
+    width: 450px;
+    height: 210px;
+    border-radius: 12px;
+    background-color: #a77a48;
+    margin-top: 40px;
+    background-image: url('image-removebg-preview 1.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-left: 50px;
+    
+}
+
+.banner5 {
+    width: 450px;
+    height: 210px;
+    border-radius: 12px;
+    background-color: #a77a48;
+    margin-top: 40px;
+    background-image: url('image\ 6\ \(1\).png');
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-left: 50px;
+    
+}
+
+.banner6 {
+    width: 450px;
+    height: 210px;
+    border-radius: 12px;
+    background-color: #a77a48;
+    margin-top: 40px;
+    background-image: url('image\ 8\ \(1\).png');
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-left: 50px;
+    margin-top: 300px;
+    
+}
+
+.banner7 {
+    width: 450px;
+    height: 210px;
+    border-radius: 12px;
+    background-color: #a77a48;
+    margin-top: 40px;
+    background-image: url(image\ 7.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-left: 50px;
+    margin-top: 300px;
+    
+}
+
+.banner8 {
+    width: 450px;
+    height: 210px;
+    border-radius: 12px;
+    background-color: #a77a48;
+    margin-top: 40px;
+    background-image: url(image\ 5\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-left: 50px;
+    margin-top: 600px;
+    
+}
+
+.banner9 {
+    width: 450px;
+    height: 210px;
+    border-radius: 12px;
+    background-color: #a77a48;
+    margin-top: 40px;
+    background-image: url(image\ 9\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-left: 50px;
+    margin-top: 600px;
+    
+}
+
+.carbonara{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 30px;
+    font-size: 25px;
+    padding-top: 25px;
+    color: #4B2900;
+    padding-top: 10px;
+}
+
+.foods{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 30px;
+    font-size: 20px;
+    color: wheat;
+    
+    
+}
+
+.pedido{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    color: wheat;
+    padding-left: 10px;
+    width: 70px;
+    height: 25px;
+    background-color: #4b2900;
+    margin-left: 30px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+
+
+
+
+.menu-top {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 80px;
+}
+
+.menu-button img {
+    height: 40px;
+}
+
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.login-logo {
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+}
+
+.login-form label {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.login-form input {
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.login-form button {
+    padding: 10px 20px;
+    background-color: rgb(200, 150, 100);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.login-form button:hover {
+    background-color: rgb(180, 130, 90);
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(227, 213, 196);
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 14px;
+    color: #555;
+}
+
+.footer-content img {
+    margin-right: 8px;
+}
+
+
+/*---------------------------------------------*/
+
+.who_title{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    color: #4b2900;
+    padding-left: 30px;
+}
+
+.who_subtitle{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    color: #4b2900;
+    padding-left: 30px;
+    
+}
+
+
+/*---------------------------------------------*/
+
+
+.container3 {
+    max-width: 800px;
+    margin-left: 100px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #4b2900;
+}
+
+.contact-info {
+    margin-bottom: 30px;
+    
+}
+
+.contact-info p {
+    margin: 10px 0;
+}
+
+.contact-info span {
+    font-weight: bold;
+    
+}
+
+.form-cont{
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #4b2900;
+}
+
+.form-container {
+    margin-top: 30px;
+    
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+form input, form textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+form button {
+    padding: 10px 20px;
+    background-color: #4b2900;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #3a1f00;
+}
